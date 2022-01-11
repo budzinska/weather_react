@@ -10,3 +10,7 @@
 .imageList {
   list-style-type: none;
 }
+.footerLink {
+  margin-top: 20px;
+  font-size: 10px;
+}
